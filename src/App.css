@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.list-group{
+  background-color: beige;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+  font-size: larger;
+}
+.list-group-item{
+  background-color: beige;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+  font-size: larger;
+}
+
+
